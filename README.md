@@ -32,6 +32,7 @@ These read and write to the database then send the results back to the Front End
 - *git log*
 
 ## Installation Instructions
+Use free AWS account to create a new EC2 instance.  Log into the shell. create a working/dev directory somewhere off your home directory.  Run the following scripts.
 #### Use the Scripts to:
 - Download the MariaDB (MySQl)
 - Install and create the Messenger Database and schema.
