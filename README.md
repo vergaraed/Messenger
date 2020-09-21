@@ -19,3 +19,21 @@ Generate DB Schema
 - Fields
 ### PHP Backend Scripts
 These read and write to the database then send the results back to the Front End
+
+## Git commands
+#### **Go to a desired disk location ~/dev and Download files**
+- *git clone*
+- *git pull*
+#### **Make any changes**
+- *git add . *
+- *git commit -m "Commit Message for logging purposes."*
+- *git push*
+- *git status*
+- *git log*
+
+## Installation Instructions
+#### Use the Scripts to:
+- Download the MariaDB (MySQl)
+- Install and create the Messenger Database and schema.
+- Download NGinx webserver and setup the host (virtual hosts).
+- Php setup.
